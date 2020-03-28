@@ -1,0 +1,16 @@
+/*
+Theme Name: divichild
+Text Domain: divichild
+Template:Divi
+*/
+
+
+
+#main-content .container:before {
+    position: absolute;
+    top: 0;
+    width: 1px;
+    height: 100%;
+    background-color: #e2e2e2;
+    content: none;
+}
