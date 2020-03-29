@@ -14,3 +14,70 @@ Template:Divi
     background-color: #e2e2e2;
     content: none;
 }
+
+/* mehwish css start */
+
+.faqsec2.et_pb_section.et_pb_section_1 {
+    background-image: url(http://localhost/wooder/wp-content/uploads/2020/03/faqs-1.jpg)!important;
+    box-shadow: inset 0 0 0 400px rgba(0, 0, 0, 0.5);
+}
+
+.faq .et_pb_contact_right {
+    display: inline-block;
+    min-width: 105px;
+    margin: 0;
+    text-align: right;
+    display: none;
+}
+
+.faq .et_pb_column.et_pb_column_1_4.et_pb_column_1.et_pb_css_mix_blend_mode_passthrough {
+    background: #bea67c;
+    padding: 31px;
+    border-radius: 20px;
+    border: solid black;
+}
+
+.faq form.wpcf7-form {
+    color: black;
+}
+
+.faq input.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required {
+    width: 170px;
+    border-radius: 17px;
+}
+
+.faq textarea.wpcf7-form-control.wpcf7-textarea {
+    width: 170px;
+    height: 148px;
+    border-radius: 17px;
+}
+
+.faq input.wpcf7-form-control.wpcf7-submit {
+    background: #bea67c;
+    width: 95px;
+    height: 36px;
+    border-radius: 5px;
+    border: solid 1px;
+    box-shadow: 2px 4px;
+    padding: 3px;
+}
+
+.faq div.wpcf7-validation-errors, div.wpcf7-acceptance-missing {
+    border: 2px solid #e8e8e2;
+    box-shadow: 2px 3px 4px white;
+    text-align: center;
+}
+
+.faq .et_pb_accordion .et_pb_toggle_title:before, .et_pb_toggle .et_pb_toggle_title:before {
+    color: black;
+}
+
+
+.faq .et_pb_gutters3 .et_pb_column_3_4 .et_pb_module, .et_pb_gutters3.et_pb_row .et_pb_column_3_4 .et_pb_module {
+    background: #e2d7aa;
+    border: solid #bea67c;
+}
+
+
+
+/* mehwish css end */
